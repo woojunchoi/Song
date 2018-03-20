@@ -1,4 +1,4 @@
-# SONG INFO BOX PROJECT
+# ADD SONG / LYRIC PROJECT
 
 ## Front End Technologies:</br>React, JavaScript, HTML5, CSS3, Materiallize.css, Apollo
 ## Back End Technologies:</br>NodeJS, MongoDB, Mongoose, mLab, Express, GraphQL
