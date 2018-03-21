@@ -17,5 +17,5 @@
 > 4. Install dependencies 
 >    - `npm install`
 > 5. Start dev server
->    - `npm start`
+>    - `npm run dev`
 > 6. Open a browser and navigate to `localhost:4000`
